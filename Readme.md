@@ -368,6 +368,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 0xf85641281bf7e5c9cd3c8a0b2f076f3172b3ccd583978b614e69a5d381b6d3bd
 
 
+Developer Details:
+Team Name: cahin chasers
+team members:
+1.mandadhi janani-23501a05b2@pvpsit.ac.in
+2.krosuri hrithvika sarvani-sarvanikrosuri@gmail.com
+3.charitha sri lukka-charithasrilukka@gmail.com
+
+
+
+PPT:
+https://www.canva.com/design/DAGv1X_fvD8/SrhfR9Xsfj_kFs_OIxmwSg/edit?utm_content=DAGv1X_fvD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 
 
 
